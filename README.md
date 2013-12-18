@@ -12,8 +12,11 @@ Server configuration is done in the "config.json" file.  Make sure you adjust th
 KNOWN ISSUES
 ============
 
-        - the TV serial port can ocassionally lock up and TV needs a manual power reset (no way around this)
-        - no support for setting channels using number input yet (working on it)
+        - the TV serial port can ocassionally lock up and TV needs a manual power reset 
+          (no way around this)
+        
+        - no support for setting channels using number input yet 
+          (working on it)
 
 USAGE
 =====
